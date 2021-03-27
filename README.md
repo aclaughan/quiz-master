@@ -11,30 +11,67 @@
 |__________________| 
          
 
-Q.1: A slug's blood is green. (True/False)?: t
-Correct, you earn a point
-Q.2: The loudest animal is the African Elephant. (True/False)?: f
-Correct, you earn a point
-Q.3: Approximately one quarter of human bones are in the feet. (True/False)?: t
-Correct, you earn a point
-Q.4: The total surface area of a human lungs is the size of a football pitch. (True/False)?: t
-Correct, you earn a point
-Q.5: In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat. (True/False)?: t
-Correct, you earn a point
-Q.6: In London, UK, if you happen to die in the House of Parliament, you are entitled to a state funeral. (True/False)?: f
-Correct, you earn a point
-Q.7: It is illegal to pee in the Ocean in Portugal. (True/False)?: f
+I found 50 questions.
+I have chosen 10 random questions
+to ask you. Good luck :)
+
+Question 1: 
+    In 'Portal 2', Cave Johnson started out Aperture Science as a shower
+    curtain company.
+       (True/False)?: t
+Correct, you earn a point [1/10]
+
+Question 2: 
+    In the 'Shrek' film franchise, Donkey is played by Eddie Murphy.
+       (True/False)?: t
+Correct, you earn a point [2/10]
+
+Question 3: 
+    In 'JoJo's Bizarre Adventure', Father Enrico Pucchi uses a total of 3
+    stands in Part 6: Stone Ocean.
+       (True/False)?: t
+Correct, you earn a point [3/10]
+
+Question 4: 
+    Gumbo is a stew that originated in Louisiana.
+       (True/False)?: t
+Correct, you earn a point [4/10]
+
+Question 5: 
+    The logo for Snapchat is a Bell.
+       (True/False)?: f
+Correct, you earn a point [5/10]
+
+Question 6: 
+    'Cube', 'Cube 2: Hypercube' and 'Cube Zero' were directed by the same
+    person.
+       (True/False)?: f
+Correct, you earn a point [6/10]
+
+Question 7: 
+    The Sniper's SMG in Team Fortress 2, was originally intended to be
+    the Scout's primary weapon.
+       (True/False)?: t
+Correct, you earn a point [7/10]
+
+Question 8: 
+    Early RAM was directly seated onto the motherboard and could not be
+    easily removed.
+       (True/False)?: t
+Correct, you earn a point [8/10]
+
+Question 9: 
+    Skateboarding will be included in the 2020 Summer Olympics in Tokyo.
+       (True/False)?: f
 That is incorrect
-Q.8: You can lead a cow down stairs but not up stairs. (True/False)?: t
-That is incorrect
-Q.9: Google was originally called 'Backrub'. (True/False)?: t
-Correct, you earn a point
-Q.10: Buzz Aldrin's mother's maiden name was 'Moon'. (True/False)?: f
-That is incorrect
-Q.11: No piece of square dry paper can be folded in half more than 7 times. (True/False)?: f
-Correct, you earn a point
-Q.12: A few ounces of chocolate can to kill a small dog. (True/False)?: t
-Correct, you earn a point
-final score: 9
+
+Question 10: 
+    Denmark has a monarch.
+       (True/False)?: t
+Correct, you earn a point [9/10]
+
+final score: 9/10
+
+Process finished with exit code 0
 
 ```
